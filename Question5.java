@@ -32,7 +32,6 @@ public class Question5
     int totalNum = in.nextInt();
 
     for(int i=0; i<totalNum;i++){
-      System.out.print("Enter the numbers:");
       int num = in.nextInt();
       numList.add(num);
     }
